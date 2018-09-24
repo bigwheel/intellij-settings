@@ -17,6 +17,8 @@
     <mask>*.as</mask>
     <mask>*.css</mask>
     <mask>*.mxml</mask>
+    <mask>*</mask>
+    <mask>*.yml</mask>
     <mask>*.scala</mask>
   </component>
 </application>
