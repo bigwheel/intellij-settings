@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'personal-core'" />
-    <option name="defaultScopeName" value="Project 'personal-core'" />
-    <option name="SEARCH_SCOPE" value="Project 'personal-core'" />
+    <option name="customScope" value="Project 'dfree-api-secondary'" />
+    <option name="defaultScopeName" value="Project 'dfree-api-secondary'" />
+    <option name="SEARCH_SCOPE" value="Project 'dfree-api-secondary'" />
   </component>
 </application>
