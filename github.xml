@@ -1,4 +1,9 @@
 <application>
+  <component name="GithubAccounts">
+    <account id="0a145f92-3a86-40b0-98f6-7eed40eff814" name="k.bigwheel+eng@gmail.com">
+      <server host="github.com" />
+    </account>
+  </component>
   <component name="GithubSettings">
     <option name="LOGIN" value="ni@www-biz.co" />
     <option name="AUTH_TYPE" value="BASIC" />
