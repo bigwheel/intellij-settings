@@ -1,7 +1,0 @@
-<application>
-  <component name="IntentionManagerSettings">
-    <ignoreAction name="Scala/Argument Conversion/Use named arguments" />
-    <ignoreAction name="Scala/Type/Toggle Type Annotation" />
-    <ignoreAction name="Scala/Expressions/Remove unnecessary parentheses" />
-  </component>
-</application>
