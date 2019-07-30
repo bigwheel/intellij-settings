@@ -1,5 +1,0 @@
-<application>
-  <component name="NotificationConfiguration">
-    <notification groupId="sbt Import" displayType="NONE" shouldLog="false" />
-  </component>
-</application>
